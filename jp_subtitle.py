@@ -8,7 +8,7 @@ from tqdm import tqdm
 
 # === 1. 配置区域 ===
 # *********************************************************************************
-VIDEO_FOLDER = "D:\\BaiduNetdiskDownload\\S01"  # 【请修改】输入视频所在的文件夹
+VIDEO_FOLDER = "D:\\BaiduNetdiskDownload\\电影版"  # 【请修改】输入视频所在的文件夹
 MODEL_SIZE = "small"                         # Whisper模型大小: tiny, base, small, medium, large
 LANGUAGE = "Japanese"                        # 视频中的原始语言
 # *********************************************************************************

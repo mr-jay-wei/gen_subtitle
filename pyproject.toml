@@ -10,6 +10,7 @@ dependencies = [
     "gradio>=5.49.1",
     "openai>=2.3.0",
     "openai-whisper>=20250625",
+    "pyinstaller>=6.16.0",
     "python-dotenv>=1.1.1",
     "srt>=3.5.3",
     "tqdm>=4.67.1",
